@@ -1,0 +1,17 @@
+{
+  "name": "ma-vue-page",
+  "version": "1.0.4",
+  "description": "使用node新建vue-page",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "vue-page"
+  ],
+  "author": "马鹏达",
+  "license": "ISC",
+  "dependencies": {
+    "ma-fs": "^1.0.1"
+  }
+}
